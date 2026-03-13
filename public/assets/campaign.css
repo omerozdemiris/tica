@@ -1,0 +1,34 @@
+.campaign-container {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.campaign-ready {
+    color: inherit;
+}
+
+.campaign-container .campaign-marquee {
+    display: inline-flex;
+    gap: 20rem;
+    white-space: nowrap;
+    will-change: transform;
+}
+
+.campaign-container .campaign-link {
+    font-size: 0.9rem;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.campaign-container .campaign-link:hover {
+    text-decoration: underline;
+}

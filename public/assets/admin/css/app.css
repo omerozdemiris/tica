@@ -1,0 +1,83 @@
+body {
+    font-family: "Nunito Sans", sans-serif;
+}
+.dark input[type="text"],
+.dark input[type="email"],
+.dark input[type="number"],
+.dark input[type="password"],
+.dark textarea,
+.dark select {
+    background-color: #000000;
+    border-color: #1f2937;
+    color: #ffffff;
+}
+
+input.toggle {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 42px;
+    height: 22px;
+    border-radius: 9999px;
+    background-color: #e5e7eb;
+    position: relative;
+    outline: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    vertical-align: middle;
+}
+
+.dark input.toggle {
+    background-color: #374151;
+}
+
+input.toggle:after {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    transition: transform 0.2s ease;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+input.toggle:checked {
+    background-color: #7c3aed;
+}
+
+input.toggle:checked:after {
+    transform: translateX(20px);
+}
+
+.dark .ts-control {
+    background-color: #000000;
+    border-color: #1f2937;
+    color: #ffffff;
+}
+
+.dark .ts-dropdown {
+    background-color: #0b0b0b;
+    border-color: #1f2937;
+    color: #ffffff;
+}
+
+.dark .ts-dropdown .option:hover,
+.dark .ts-dropdown .option.active {
+    background-color: #111827;
+}
+
+.dark table.dataTable thead th {
+    background-color: #111827 !important;
+    color: #e5e7eb !important;
+}
+
+.dark table.dataTable tbody tr:hover {
+    background-color: rgba(17, 24, 39, 0.6);
+}
+
+.dark a.border:hover,
+.dark button.border:hover {
+    background-color: #111827;
+}
