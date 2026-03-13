@@ -114,3 +114,16 @@ Ahşap / Renk / Kumaş / Ölçü / Model vb.
 ---
 
 ## 🚀 Kurulum
+ - git clone https://github.com/kullaniciadi/tica.git
+
+ - cd tica
+
+ - composer install
+
+ - cp .env.example .env
+
+ - php artisan key:generate
+
+ - php artisan migrate
+
+ - php artisan serve
