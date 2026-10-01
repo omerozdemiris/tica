@@ -1,0 +1,1793 @@
+# Webalizer V2.23-08 Incremental Data - 04/06/2026 00:00:44
+2026 4 6 0 0 44
+2692 1384 388 52 52 152 63579861 646 350 0
+1 24 197 1 6
+445 240 11022556 90 99 65
+526 263 11905358 78 136 61
+557 381 18728122 90 166 85
+493 249 11808478 110 129 78
+647 251 10057336 101 114 60
+24 0 58011 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+124 94 2760273 22
+32 29 1187755 12
+73 39 1818864 18
+93 68 3779624 16
+96 71 3797564 42
+100 65 2888486 42
+67 42 1493579 44
+68 24 588606 24
+54 21 1071973 11
+75 28 933317 17
+71 66 4400689 8
+79 52 2532225 17
+151 19 400588 28
+217 99 5413229 40
+146 97 5509717 41
+361 56 3389779 41
+124 112 5269673 42
+203 116 4662161 46
+33 25 342918 18
+189 53 1750610 36
+77 55 2639506 20
+103 83 3642263 26
+64 39 1718250 15
+92 31 1588212 20
+0
+0
+0
+1384
+0
+0
+0
+0
+0
+28
+0
+35
+35
+0
+11
+0
+0
+0
+0
+0
+42
+1141
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+# -urls- 
+/products
+0 24 0 132711 16 5
+/assets/frontend.js
+0 64 0 441877 0 0
+/assets/frontend.css
+0 60 0 158115 0 0
+/products/6/urgupun-simgesel-rozeti
+0 19 0 141523 16 13
+/admin/dashboard
+0 2 0 21230 0 0
+/admin/login
+0 9 0 26674 0 0
+/upload/slider/slider_mobile_697728cd4ad1f.jpg
+0 12 0 300927 0 0
+/register
+0 12 0 66181 8 1
+/returns
+0 7 0 38481 5 0
+/upload/products/product_696a288a126040.54806917.webp
+0 48 0 4001916 0 0
+/categories/1/at-heykeli
+0 15 0 75727 9 1
+/forgot-password
+0 1 0 9537 1 0
+/categories/2/canta-ve-tasima
+0 12 0 61619 7 1
+/admin/dashboard/metrics
+0 2 0 1345 0 1
+/distance-selling
+0 12 0 79621 10 0
+/about
+0 7 0 38102 5 0
+/categories/6/sofra-ve-mutfak
+0 9 0 56762 5 0
+/products/5/pilavlik-bulgur
+0 6 0 46530 5 1
+/products/7/seramik-urgup-isi-kahve-fincani
+0 23 0 170853 19 13
+/assets/admin/assets/css/app.css
+0 1 0 465 0 0
+/favicon.ico
+0 4 0 1374 0 0
+/products/4/koftelik-bulgur
+0 6 0 50106 5 0
+/cookies
+0 12 0 74189 10 4
+/upload/products/product_696a2830efac92.35305794.webp
+0 15 0 1436967 0 0
+/upload/site/logo_white_696a26586a3a5.svg
+0 1 0 8536 0 0
+/upload/products/product_696a28b954e1b1.69599859.webp
+0 50 0 3842906 0 0
+/upload/site/favicon_696a26586aa64.png
+0 29 0 1175976 0 0
+/login
+0 8 0 45771 4 1
+/assets/app.js
+0 64 0 116782 0 0
+/products/3/yarma
+0 10 0 77610 8 3
+/assets/img/resim-yok.svg
+0 64 0 426362 0 0
+/categories/4/hediyelik-ve-aksesuar
+0 13 0 75270 7 1
+/privacy
+0 8 0 52047 7 2
+/upload/site/logo_696a265869dcc.svg
+0 68 0 615103 0 0
+/assets/alert.js
+0 70 0 106893 0 0
+/products/2/albostan-ata-bugdayi-unu-1-kg
+0 22 0 176358 19 12
+/products/1/urgup-yeralti-yapilari-kitabi
+0 7 0 58856 6 2
+/assets/campaign.css
+0 60 0 36027 0 0
+/
+0 205 0 3312160 148 20
+/categories/3/dekorasyon
+0 13 0 73434 7 1
+/assets/campaign.js
+0 65 0 83317 0 0
+/assets/admin/assets/app.js
+0 1 0 2189 0 0
+/cart
+0 10 0 53101 8 2
+/admin/products
+0 1 0 9526 0 0
+/upload/products/product_696a28f486f2f4.71713716.webp
+0 48 0 24595627 0 0
+/assets/admin/assets/tinymce/tinymce.min.js
+0 1 0 137259 0 0
+/robots.txt
+0 66 0 11374 0 0
+/upload/products/product_696a29103418d7.17544364.webp
+0 47 0 7175996 0 0
+/upload/slider/slider_697728cd4ac4e.jpg
+0 12 0 944550 0 0
+/upload/products/product_696a284e17e9d9.63955020.webp
+0 45 0 4563855 0 0
+/upload/products/product_696a28dbd0e366.14776217.webp
+0 46 0 4716644 0 0
+/categories/5/kitap-yayinlar
+0 7 0 42475 4 1
+# End Of Table - urls
+# -sites- (monthly)
+45.119.85.39
+0 3 0 6789 0 0
+-
+40.77.167.155
+0 1 1 7186 1 1775008745
+/
+170.106.179.68
+0 1 1 8479 1 1775073689
+/cookies
+47.128.31.136
+0 1 1 5086 1 1775193120
+/cart
+43.157.170.13
+0 1 1 10343 1 1775217418
+/
+43.135.138.128
+0 1 1 9222 1 1775291255
+/products/7/seramik-urgup-isi-kahve-fincani
+43.130.154.56
+0 1 1 9406 1 1775366819
+/products/6/urgupun-simgesel-rozeti
+47.128.31.127
+0 1 1 5887 1 1775186323
+/categories/4/hediyelik-ve-aksesuar
+198.244.242.157
+0 1 1 228 0 0
+-
+93.158.90.70
+0 1 1 9215 1 1775048085
+/products/7/seramik-urgup-isi-kahve-fincani
+40.77.167.77
+0 2 2 3004 0 0
+-
+93.123.109.79
+0 1 0 1242 0 0
+-
+52.167.144.149
+0 1 1 7188 1 1775106987
+/
+34.46.1.109
+0 1 1 9083 1 1775413780
+/
+74.176.227.117
+0 1 1 7892 1 1775149449
+/distance-selling
+172.71.184.155
+0 2 0 4537 0 0
+-
+116.179.37.100
+0 1 1 1864 0 0
+-
+43.153.27.244
+0 1 1 8480 1 1775008692
+/privacy
+43.167.157.80
+0 1 1 10411 1 1775095477
+/
+52.167.144.159
+0 2 2 9649 2 1775263054
+/products
+51.195.183.58
+0 1 1 1085 0 0
+-
+52.167.144.237
+0 1 1 1296 0 0
+-
+85.214.6.204
+0 1 1 9077 1 1775176432
+/
+154.28.229.127
+0 1 1 7362 1 1775180265
+/
+47.128.30.6
+0 1 1 5274 1 1775279081
+/about
+40.77.167.224
+0 2 2 10359 2 1775245471
+/about
+47.128.30.94
+0 1 1 5354 1 1775233815
+/login
+47.128.31.108
+0 2 2 7136 1 1775360724
+/products/7/seramik-urgup-isi-kahve-fincani
+51.195.183.135
+0 1 1 24 0 0
+-
+43.167.232.38
+0 2 2 193087 0 0
+-
+43.157.150.69
+0 1 1 7767 1 1775281573
+/categories/1/at-heykeli
+94.72.100.68
+0 1 0 2723 0 0
+-
+52.167.144.175
+0 1 1 4974 1 1775018268
+/categories/3/dekorasyon
+43.157.50.58
+0 1 1 9537 1 1775009270
+/forgot-password
+104.210.140.142
+0 4 4 96 0 0
+-
+93.158.90.74
+0 1 1 9772 1 1775048086
+/products/2/albostan-ata-bugdayi-unu-1-kg
+52.167.144.136
+0 1 1 5317 1 1775343405
+/cookies
+40.77.167.235
+0 2 2 8795 1 1775404562
+/returns
+52.167.144.210
+0 1 1 6000 1 1775022288
+/
+182.44.8.254
+0 1 1 10341 1 1775085133
+/
+185.8.106.156
+0 26 4 82422 2 1775346683
+/
+170.106.161.78
+0 1 1 9837 1 1775368001
+/products/5/pilavlik-bulgur
+119.249.100.47
+0 1 1 272 0 0
+-
+117.250.27.13
+0 1 0 7014 0 0
+-
+85.208.96.203
+0 1 0 2686 0 0
+-
+164.92.98.132
+0 4 4 102702 1 1775013809
+/
+129.226.213.145
+0 1 1 7476 1 1775005692
+/login
+93.158.90.65
+0 4 4 34248 2 1775250968
+/products/2/albostan-ata-bugdayi-unu-1-kg
+170.106.167.214
+0 1 1 10416 1 1775307624
+/
+125.94.144.102
+0 1 1 10410 1 1775337404
+/
+172.68.10.222
+0 1 0 1992 0 0
+-
+172.70.240.125
+0 2 0 4537 0 0
+-
+167.114.3.106
+0 12 12 220158 1 1775348128
+/products/7/seramik-urgup-isi-kahve-fincani
+43.157.38.131
+0 1 1 7756 1 1775284648
+/categories/2/canta-ve-tasima
+45.114.183.70
+0 1 1 103884 0 0
+-
+129.153.94.60
+0 15 7 47692 1 1775024589
+/login
+172.69.151.234
+0 31 0 63589 1 1775046651
+-
+192.253.248.91
+0 4 0 10452 0 0
+-
+43.166.251.233
+0 1 1 10345 1 1775069699
+/
+182.42.104.32
+0 1 1 10409 1 1775245753
+/
+43.157.179.227
+0 2 2 19593 2 1775334885
+/products/7/seramik-urgup-isi-kahve-fincani
+43.159.145.153
+0 1 1 10407 1 1775048266
+/
+40.77.167.63
+0 1 1 5772 1 1775149459
+/distance-selling
+172.213.11.159
+0 1 1 5997 1 1775149747
+/
+48.192.92.18
+0 1 1 7432 1 1775149448
+/cookies
+43.166.128.86
+0 1 1 10345 1 1775119692
+/
+66.29.156.225
+0 1 1 10376 1 1775375549
+/
+172.71.144.106
+0 1 0 1992 0 0
+-
+43.167.245.18
+0 1 1 10408 1 1775165934
+/
+40.77.167.49
+0 2 1 6717 1 1775122920
+/returns
+43.163.206.70
+0 1 1 9805 1 1775366180
+/products/2/albostan-ata-bugdayi-unu-1-kg
+74.7.227.155
+0 3 3 14241 2 1775367736
+/
+43.153.7.191
+0 1 1 8365 1 1775285285
+/categories/5/kitap-yayinlar
+85.103.177.44
+0 89 86 2907780 6 1775230739
+/products
+161.178.132.46
+0 1 0 2723 0 0
+-
+47.128.31.138
+0 3 3 13947 2 1775311037
+/products/3/yarma
+67.55.241.165
+0 17 17 1226640 1 1775223402
+/products
+157.55.39.204
+0 1 1 7187 1 1775393420
+/
+124.156.225.181
+0 3 3 27169 3 1775411213
+/
+188.166.22.120
+0 1 0 2545 0 0
+-
+40.77.167.74
+0 1 1 5335 1 1775385608
+/privacy
+207.46.13.151
+0 1 1 7189 1 1775344241
+/
+116.179.32.47
+0 1 1 7414 1 1775349451
+/products
+40.77.167.2
+0 1 1 7411 1 1775214333
+/products/3/yarma
+104.210.140.136
+0 1 1 24 0 0
+-
+66.249.79.8
+0 1 1 309 0 0
+-
+203.175.125.130
+0 9 0 22905 0 0
+-
+185.153.177.167
+0 1 0 7014 0 0
+-
+43.153.76.247
+0 1 1 8385 1 1775283350
+/categories/3/dekorasyon
+54.37.10.247
+0 16 16 478795 1 1775348130
+/cart
+170.106.84.136
+0 1 1 9514 1 1775339786
+/products/1/urgup-yeralti-yapilari-kitabi
+68.218.20.199
+0 1 1 1076 1 1775134563
+/
+72.14.199.100
+0 172 172 13718852 7 1775336154
+/products/2/albostan-ata-bugdayi-unu-1-kg
+34.136.50.167
+0 2 2 18193 2 1775073825
+/
+167.94.146.59
+0 3 3 51456 1 1775237996
+/
+150.109.230.210
+0 1 1 80072 0 0
+-
+185.177.72.60
+0 46 12 143204 2 1775303771
+/
+72.11.155.223
+0 1 1 9083 1 1775309631
+/
+40.77.167.159
+0 1 1 4486 1 1775225144
+/categories/1/at-heykeli
+40.77.167.50
+0 1 1 4524 1 1775176085
+/categories/2/canta-ve-tasima
+47.128.30.79
+0 1 1 5414 1 1775283259
+/returns
+116.179.37.75
+0 1 1 1600 0 0
+-
+176.235.173.250
+0 47 47 2709526 2 1775228094
+/
+47.128.30.84
+0 1 1 5419 1 1775215488
+/register
+52.167.144.145
+0 1 1 5770 1 1775119902
+/distance-selling
+74.7.228.6
+0 6 6 429 0 0
+-
+167.114.139.252
+0 1 1 24 0 0
+-
+45.148.10.174
+0 32 6 92087 1 1775411470
+-
+35.226.248.171
+0 1 1 9112 1 1775411911
+/
+47.128.31.117
+0 1 1 5460 1 1775239638
+/categories/2/canta-ve-tasima
+43.157.98.187
+0 1 1 156031 0 0
+-
+91.234.6.163
+0 24 0 58011 1 1775433644
+-
+40.77.167.23
+0 1 1 4975 1 1775302850
+/categories/3/dekorasyon
+170.106.72.93
+0 2 2 20152 2 1775329841
+/
+43.153.71.12
+0 1 1 10343 1 1775193000
+/
+93.158.90.67
+0 1 1 9047 1 1775250967
+/
+47.128.30.72
+0 2 2 900 0 0
+-
+104.23.221.181
+0 1 0 1992 0 0
+-
+85.208.96.196
+0 1 1 9230 1 1775355975
+/
+47.128.31.124
+0 1 1 5273 1 1775164409
+/about
+42.83.147.56
+0 1 1 9080 1 1775141225
+/
+65.55.210.111
+0 1 1 3969 0 0
+-
+43.159.143.190
+0 1 1 90738 0 0
+-
+157.55.39.14
+0 1 1 5774 1 1775403346
+/distance-selling
+198.235.24.167
+0 1 1 67575 1 1775317370
+/
+40.77.167.13
+0 1 1 4331 1 1775170296
+/products
+66.249.68.6
+0 2 2 42750 0 0
+-
+198.244.226.246
+0 1 1 1337 0 0
+-
+161.97.158.68
+0 21 3 325020 1 1775257392
+/
+52.167.144.212
+0 1 0 2263 0 0
+-
+40.77.167.79
+0 1 0 2263 0 0
+-
+2.58.56.237
+0 21 3 325020 1 1775015405
+/
+180.153.236.185
+0 1 1 9112 1 1775247318
+/
+182.42.105.144
+0 1 1 10340 1 1775222592
+/
+116.179.37.202
+0 1 1 1343 0 0
+-
+104.210.140.134
+0 2 2 48 0 0
+-
+52.167.144.214
+0 1 1 4941 1 1775298491
+/categories/4/hediyelik-ve-aksesuar
+43.164.196.57
+0 1 1 9829 1 1775369752
+/products/4/koftelik-bulgur
+47.128.30.81
+0 1 1 5088 1 1775289831
+/cart
+52.167.144.196
+0 1 1 4450 1 1775388632
+/register
+180.153.236.253
+0 1 1 309 0 0
+-
+43.156.204.134
+0 1 1 9831 1 1775284002
+/products/4/koftelik-bulgur
+43.166.226.186
+0 1 1 8337 1 1775336729
+/categories/4/hediyelik-ve-aksesuar
+93.158.91.249
+0 1 1 272 0 0
+-
+43.153.36.110
+0 1 1 8376 1 1775333248
+/categories/3/dekorasyon
+62.171.173.178
+0 15 1 33065 1 1775284631
+-
+45.148.10.120
+0 12 0 32232 0 0
+-
+45.148.10.238
+0 2 0 3278 0 0
+-
+43.156.202.34
+0 1 1 7468 1 1775078444
+/login
+51.38.135.19
+0 19 19 787364 1 1775348126
+/products/4/koftelik-bulgur
+52.167.144.199
+0 2 2 11086 2 1775262208
+/distance-selling
+52.167.144.205
+0 1 1 7189 1 1775269419
+/
+45.148.10.231
+0 64 12 183970 2 1775381991
+-
+172.69.151.49
+0 15 0 37128 0 0
+-
+40.77.167.27
+0 2 2 11087 2 1775270401
+/distance-selling
+43.157.142.101
+0 1 1 10344 1 1775280185
+/
+51.75.162.18
+0 3 3 23212 0 0
+-
+47.128.31.126
+0 1 1 450 0 0
+-
+52.167.144.184
+0 3 3 14666 3 1775332347
+/categories/6/sofra-ve-mutfak
+219.98.129.7
+0 1 0 7014 0 0
+-
+142.44.220.199
+0 1 1 24 0 0
+-
+54.71.56.32
+0 3 3 10583 0 0
+-
+162.158.182.100
+0 2 0 4537 0 0
+-
+176.96.137.48
+0 7 0 17993 1 1775200961
+-
+192.144.148.122
+0 1 1 10340 1 1775406192
+/
+49.7.227.204
+0 1 1 10411 1 1775198986
+/
+93.123.109.214
+0 23 6 71624 1 1775409370
+/
+91.234.6.21
+0 15 0 35106 1 1775158567
+-
+43.130.26.3
+0 2 2 18101 2 1775337330
+/categories/1/at-heykeli
+77.36.127.202
+0 15 13 58734 1 1775026895
+/distance-selling
+16.147.96.229
+0 1 1 1343 0 0
+-
+43.157.53.115
+0 1 1 8481 1 1775071283
+/privacy
+47.128.31.147
+0 1 1 5890 1 1775269815
+/categories/4/hediyelik-ve-aksesuar
+52.167.144.137
+0 1 0 2263 0 0
+-
+43.156.232.190
+0 1 1 10333 1 1775362599
+/
+75.119.128.178
+0 21 3 325020 1 1775248385
+/
+172.69.150.148
+0 1 0 2545 0 0
+-
+47.128.31.111
+0 5 5 25954 4 1775250111
+/products/1/urgup-yeralti-yapilari-kitabi
+47.128.31.134
+0 1 1 5433 1 1775139541
+/categories/1/at-heykeli
+47.128.31.116
+0 2 2 7655 1 1775406776
+/products/3/yarma
+182.44.10.67
+0 1 1 10408 1 1775290866
+/
+34.62.63.240
+0 1 1 9085 1 1775408357
+/
+172.71.144.107
+0 1 0 1992 0 0
+-
+40.77.167.123
+0 1 1 7187 1 1775181911
+/
+46.154.119.235
+0 1 1 0 1 1775344792
+/
+216.73.216.9
+0 16 8 16128 0 0
+-
+207.211.167.189
+0 15 7 50249 1 1775133446
+/login
+45.11.175.239
+0 1 1 80250 0 0
+-
+170.106.160.90
+0 1 1 10411 1 1775362962
+/
+43.164.197.209
+0 1 1 8704 1 1775003883
+/products
+170.106.187.106
+0 1 1 9805 1 1775365595
+/products/3/yarma
+40.77.167.36
+0 1 1 4121 1 1775139533
+/cart
+205.169.39.58
+0 20 20 1388466 1 1775065533
+/
+47.128.31.135
+0 1 1 6293 1 1775182284
+/cookies
+47.128.30.97
+0 1 1 6294 1 1775224595
+/cookies
+52.167.144.213
+0 1 1 4451 1 1775415326
+/register
+40.77.167.116
+0 1 1 5998 1 1775282317
+/
+43.159.152.4
+0 1 1 10415 1 1775119905
+/
+182.44.12.37
+0 1 1 10410 1 1775061777
+/
+207.46.13.116
+0 2 2 9067 2 1775422046
+/cart
+74.7.230.22
+0 6 6 429 0 0
+-
+43.153.86.78
+0 1 1 8358 1 1775336126
+/categories/5/kitap-yayinlar
+66.249.79.4
+0 5 5 24222 2 1775194492
+/categories/4/hediyelik-ve-aksesuar
+47.128.31.137
+0 1 1 450 0 0
+-
+87.106.90.44
+0 10 0 22808 0 0
+-
+52.167.144.206
+0 5 4 23481 4 1775353801
+/products
+162.158.182.101
+0 1 0 2545 0 0
+-
+199.244.88.219
+0 1 1 42085 0 0
+-
+47.128.31.103
+0 11 9 69332 3 1775254038
+/distance-selling
+148.135.246.158
+0 1 1 106251 0 0
+-
+54.210.195.92
+0 2 2 19669 1 1775245198
+/
+172.69.151.233
+0 24 0 50667 0 0
+-
+72.14.199.99
+0 134 134 7871571 14 1775387222
+/products/7/seramik-urgup-isi-kahve-fincani
+43.135.145.73
+0 1 1 10342 1 1775239228
+/
+152.163.135.119
+0 1 1 87192 0 0
+-
+172.68.10.87
+0 1 0 2545 0 0
+-
+40.77.167.35
+0 1 1 6058 1 1775111190
+/
+43.166.1.243
+0 1 1 7564 1 1775076734
+/register
+43.130.101.151
+0 1 1 8706 1 1775072565
+/products
+172.70.240.124
+0 1 0 1992 0 0
+-
+182.9.1.183
+0 1 0 7014 0 0
+-
+47.128.30.99
+0 1 1 5416 1 1775223106
+/register
+116.179.37.88
+0 1 1 518798 0 0
+-
+104.210.140.135
+0 2 2 48 0 0
+-
+47.128.31.129
+0 10 8 58222 1 1775426123
+/products/4/koftelik-bulgur
+47.128.31.118
+0 1 1 6704 1 1775158267
+/distance-selling
+122.51.236.174
+0 1 1 10343 1 1775177809
+/
+34.23.207.97
+0 21 3 325020 1 1775427301
+/
+207.46.13.6
+0 2 2 3150 0 0
+-
+52.167.144.222
+0 1 1 7408 1 1775186890
+/products/4/koftelik-bulgur
+104.23.217.33
+0 1 0 1992 0 0
+-
+192.253.248.89
+0 4 0 10452 0 0
+-
+43.167.236.228
+0 1 1 103715 0 0
+-
+77.90.185.61
+0 4 0 10388 0 0
+-
+15.181.97.144
+0 1 0 2723 0 0
+-
+101.33.66.34
+0 1 1 212171 0 0
+-
+172.71.184.154
+0 5 0 11066 0 0
+-
+47.128.30.96
+0 2 2 7685 1 1775325442
+/products/2/albostan-ata-bugdayi-unu-1-kg
+43.130.9.111
+0 1 1 10403 1 1775217667
+/
+40.77.167.18
+0 2 2 8630 0 0
+-
+116.179.37.233
+0 1 1 1343 0 0
+-
+157.15.40.89
+0 9 0 22905 0 0
+-
+195.154.174.131
+0 1 1 7217 1 1775088067
+/
+103.4.251.143
+0 2 2 14722 1 1775180266
+/
+43.130.131.18
+0 1 1 7621 1 1775077928
+/returns
+40.77.179.160
+0 1 1 10777 0 0
+-
+66.132.172.204
+0 3 3 52001 1 1775238954
+/
+195.178.110.160
+0 115 7 223494 1 1775416675
+-
+138.246.253.7
+0 2 2 0 2 1775221796
+/
+43.157.153.236
+0 1 1 7169 1 1775077251
+/cart
+3.86.13.217
+0 2 2 18300 1 1775412678
+/
+43.159.148.221
+0 1 1 10414 1 1775142195
+/
+220.181.51.120
+0 1 1 272 0 0
+-
+45.13.59.184
+0 21 3 325020 1 1775377262
+/
+47.128.31.114
+0 1 1 450 0 0
+-
+52.42.168.221
+0 1 1 1600 0 0
+-
+159.65.84.212
+0 4 4 102696 1 1775041777
+/
+207.46.13.9
+0 1 1 4944 1 1775108041
+/categories/4/hediyelik-ve-aksesuar
+185.242.3.82
+0 1 1 67015 1 1775232132
+/
+43.157.38.228
+0 2 2 20818 2 1775280569
+/
+66.249.79.5
+0 3 3 15532 2 1775222665
+/products/7/seramik-urgup-isi-kahve-fincani
+104.252.191.158
+0 32 3 86744 1 1775183815
+-
+162.158.86.174
+0 2 0 3984 0 0
+-
+47.128.30.89
+0 1 1 450 0 0
+-
+157.55.39.9
+0 1 1 6060 1 1775396797
+/
+43.166.226.57
+0 1 1 7736 1 1775333884
+/categories/2/canta-ve-tasima
+185.177.72.50
+0 34 10 119466 2 1775191184
+/admin/login
+116.179.37.61
+0 1 1 7119 0 0
+-
+54.146.80.40
+0 2 2 18348 1 1775068037
+/
+43.157.20.63
+0 1 1 8960 1 1775007491
+/distance-selling
+66.249.68.8
+0 2 2 1029 0 0
+-
+47.128.31.102
+0 10 8 58220 1 1775339653
+/products/4/koftelik-bulgur
+47.128.30.64
+0 1 1 7196 1 1775417079
+/products/5/pilavlik-bulgur
+49.51.132.100
+0 1 1 7330 1 1775074953
+/about
+40.77.167.156
+0 2 2 11561 2 1775201666
+/cookies
+180.153.236.176
+0 1 1 9080 1 1775165526
+/
+43.157.172.39
+0 1 1 10414 1 1775239512
+/
+40.77.167.9
+0 1 1 4446 1 1775132904
+/register
+43.153.12.58
+0 1 1 8776 1 1775340285
+/categories/6/sofra-ve-mutfak
+138.246.253.24
+0 2 2 974 0 0
+-
+43.166.134.114
+0 1 1 7559 1 1775008129
+/register
+66.249.79.3
+0 5 5 36528 3 1775237876
+/products/2/albostan-ata-bugdayi-unu-1-kg
+139.59.83.95
+0 4 4 102698 1 1775363588
+/
+78.160.133.182
+0 21 21 872689 1 1775250776
+/
+136.117.232.107
+0 21 3 325020 1 1775399656
+/
+3.99.207.215
+0 108 1 272049 1 1775395522
+/
+207.46.13.229
+0 3 3 642 0 0
+-
+40.77.167.55
+0 1 1 4335 1 1775120666
+/products
+104.210.140.141
+0 2 2 48 0 0
+-
+40.77.167.47
+0 2 1 7241 1 1775161128
+/categories/3/dekorasyon
+35.163.241.18
+0 1 1 9080 1 1775150018
+/
+67.61.40.5
+0 17 17 1124316 1 1775221364
+/
+5.133.192.138
+0 2 2 51531 1 1775342319
+/
+107.11.4.35
+0 1 0 7014 0 0
+-
+34.122.147.229
+0 8 8 288732 0 0
+-
+204.76.203.25
+0 3 2 82232 1 1775340531
+/
+43.134.141.244
+0 1 1 10414 1 1775193204
+/
+40.77.167.25
+0 1 1 4485 1 1775366541
+/categories/1/at-heykeli
+62.60.130.231
+0 30 2 66113 2 1775311629
+-
+52.167.144.216
+0 3 3 14782 3 1775263755
+/returns
+43.153.74.75
+0 1 1 9806 1 1775289440
+/products/2/albostan-ata-bugdayi-unu-1-kg
+46.31.216.94
+0 1 0 7014 0 0
+-
+172.69.150.149
+0 2 0 4537 0 0
+-
+43.128.156.124
+0 2 2 20159 2 1775310617
+/products/5/pilavlik-bulgur
+43.157.181.189
+0 1 1 10415 1 1775069835
+/
+43.166.7.113
+0 1 1 156031 0 0
+-
+34.134.44.38
+0 1 1 9081 1 1775414042
+/
+185.191.171.12
+0 1 1 450 0 0
+-
+47.128.30.8
+0 9 7 56759 1 1775156304
+/categories/6/sofra-ve-mutfak
+43.157.148.38
+0 1 1 7625 1 1775002654
+/returns
+162.62.213.187
+0 1 1 103715 0 0
+-
+185.177.72.30
+0 196 2 507450 1 1775145381
+-
+70.224.198.136
+0 1 0 2723 0 0
+-
+57.129.4.123
+0 25 25 878224 1 1775348124
+/products/6/urgupun-simgesel-rozeti
+195.178.110.64
+0 1 1 9299 1 1775328092
+/
+170.106.35.187
+0 1 1 8959 1 1775076097
+/distance-selling
+40.77.167.4
+0 1 1 6059 1 1775016873
+/
+94.23.188.203
+0 1 1 24 0 0
+-
+47.128.31.109
+0 1 1 5433 1 1775301352
+/categories/1/at-heykeli
+47.128.31.123
+0 1 1 272 0 0
+-
+104.23.217.32
+0 1 0 2545 0 0
+-
+159.65.9.83
+0 21 3 325020 1 1775019760
+/
+43.165.65.180
+0 1 1 51203 0 0
+-
+172.213.11.158
+0 1 1 5999 1 1775149739
+/
+168.144.72.76
+0 4 4 102795 1 1775153095
+/
+15.204.194.30
+0 1 1 9219 0 0
+-
+146.190.157.172
+0 4 4 102698 1 1775191488
+/
+172.69.151.50
+0 52 0 101951 1 1775046646
+-
+182.42.111.156
+0 2 2 20751 2 1775382325
+/
+43.135.133.241
+0 2 2 17528 2 1775389471
+/
+54.38.147.17
+0 1 1 4522 1 1775272131
+/categories/2/canta-ve-tasima
+116.179.37.226
+0 2 2 106315 0 0
+-
+72.14.199.98
+0 169 169 12559803 17 1775389559
+/products/6/urgupun-simgesel-rozeti
+157.55.39.195
+0 1 1 6061 1 1775341912
+/
+93.158.90.72
+0 1 1 10372 1 1775048084
+/
+74.7.227.43
+0 2 2 11996 2 1775416966
+/
+3.26.129.1
+0 108 1 272054 1 1775315178
+/
+47.128.31.148
+0 9 7 56439 1 1775064891
+/categories/5/kitap-yayinlar
+3.149.24.245
+0 2 0 3984 0 0
+-
+62.141.44.236
+0 1 1 9079 1 1775186437
+/
+52.167.144.166
+0 3 3 16189 3 1775251589
+/categories/6/sofra-ve-mutfak
+49.51.47.100
+0 1 1 10343 1 1775389167
+/
+51.222.95.166
+0 1 1 5878 1 1775081677
+/products/6/urgupun-simgesel-rozeti
+40.77.178.34
+0 1 1 659 0 0
+-
+104.23.223.9
+0 8 0 17595 0 0
+-
+40.77.167.247
+0 1 1 6510 1 1775342786
+/privacy
+47.128.30.62
+0 2 2 7694 1 1775375708
+/products/5/pilavlik-bulgur
+47.128.31.141
+0 1 1 5940 1 1775137090
+/categories/3/dekorasyon
+220.181.108.178
+0 1 1 8589 1 1775291621
+/products/3/yarma
+194.9.191.21
+0 2 2 51122 1 1775417183
+/
+34.75.234.75
+0 21 3 325020 1 1775408405
+/
+43.135.135.57
+0 1 1 7335 1 1775005101
+/about
+52.167.144.25
+0 1 1 4519 1 1775026766
+/categories/2/canta-ve-tasima
+91.98.178.81
+0 1 1 9306 1 1775115887
+/
+91.234.7.7
+0 26 0 63097 1 1775200168
+-
+172.68.10.223
+0 4 0 9627 0 0
+-
+78.24.203.134
+0 76 73 3997253 3 1775233602
+/
+47.128.31.107
+0 1 1 450 0 0
+-
+135.148.195.4
+0 1 1 42085 0 0
+-
+162.158.94.143
+0 1 0 2545 0 0
+-
+117.62.235.53
+0 1 1 10414 1 1775428954
+/
+43.165.65.75
+0 1 1 10343 1 1775141971
+/
+124.156.157.91
+0 2 2 18929 2 1775331819
+/products/1/urgup-yeralti-yapilari-kitabi
+43.153.26.165
+0 1 1 87014 0 0
+-
+135.148.195.11
+0 1 1 9083 1 1775252356
+/
+43.130.15.147
+0 1 1 8798 1 1775287670
+/categories/6/sofra-ve-mutfak
+82.153.73.60
+0 1 1 103893 0 0
+-
+43.135.211.148
+0 1 1 80072 0 0
+-
+93.158.91.235
+0 1 1 9042 1 1775317062
+/
+199.244.88.226
+0 1 1 9075 1 1775250022
+/
+162.158.110.43
+0 1 0 2545 0 0
+-
+104.197.69.115
+0 8 8 820931 1 1775064709
+/
+172.93.100.166
+0 1 0 7014 0 0
+-
+64.89.163.50
+0 2 0 13776 0 0
+-
+104.23.223.8
+0 14 0 32312 0 0
+-
+43.157.52.37
+0 1 1 10412 1 1775330027
+/
+43.153.113.127
+0 1 1 10344 1 1775165662
+/
+104.210.140.133
+0 1 1 24 0 0
+-
+43.130.32.245
+0 1 1 10412 1 1775411452
+/
+38.154.90.45
+0 5 3 18019 1 1775194110
+/
+40.77.167.151
+0 1 1 5331 1 1775244396
+/privacy
+40.88.21.235
+0 2 2 51096 1 1775313768
+/
+51.195.183.96
+0 1 1 880 0 0
+-
+34.123.170.104
+0 2 2 190729 0 0
+-
+52.167.144.140
+0 1 1 4521 1 1775150695
+/categories/2/canta-ve-tasima
+170.106.147.63
+0 1 1 10342 1 1775307392
+/
+52.167.144.59
+0 5 5 120 0 0
+-
+134.199.159.154
+0 1 0 2545 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+91.234.6.163
+0 24 0 58011 1 1775433644
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.urguptehayatvar.com/categories/6/sofra-ve-mutfak
+0 1
+https://www.urguptehayatvar.com/categories/5/kitap-yayinlar
+0 1
+https://urguptehayatvar.com/products/2/albostan-ata-bugdayi-unu-1-kg
+0 171
+https://www.urguptehayatvar.com/admin/login
+0 2
+https://www.urguptehayatvar.com/
+0 20
+https://urguptehayatvar.com/admin/products
+0 1
+https://urguptehayatvar.com/products/1/urgup-yeralti-yapilari-kitabi
+0 1
+https://urguptehayatvar.com/categories/2/canta-ve-tasima
+0 4
+https://urguptehayatvar.com/
+0 152
+https://urguptehayatvar.com/admin/login
+0 5
+https://www.urguptehayatvar.com/_debugbar/
+0 1
+https://urguptehayatvar.com/debug/
+0 2
+https://urguptehayatvar.com/products
+0 23
+https://urguptehayatvar.com/administrator/
+0 2
+https://www.urguptehayatvar.com/products
+0 4
+https://urguptehayatvar.com/debugbar/
+0 2
+binance.com
+0 45
+https://www.google.com/
+0 2
+- (Direct Request)
+0 1765
+https://www.urguptehayatvar.com/debugbar/
+0 1
+https://urguptehayatvar.com/products/4/koftelik-bulgur
+0 18
+http://www.urguptehayatvar.com/robots.txt
+0 1
+http://urguptehayatvar.com/
+0 55
+http://urguptehayatvar.com/products/7/seramik-urgup-isi-kahve-fincani
+0 9
+https://urguptehayatvar.com/admin/dashboard
+0 6
+https://urguptehayatvar.com/admin
+0 4
+https://www.urguptehayatvar.com/categories/2/canta-ve-tasima
+0 1
+https://urguptehayatvar.com/categories/3/dekorasyon
+0 13
+https://urguptehayatvar.com/about
+0 1
+http://www.urguptehayatvar.com/
+0 2
+https://urguptehayatvar.com/categories/1/at-heykeli
+0 8
+https://www.urguptehayatvar.com/debug/
+0 1
+http://urguptehayatvar.com/products/4/koftelik-bulgur
+0 9
+https://www.google.com
+0 3
+http://urguptehayatvar.com/products/1/urgup-yeralti-yapilari-kitabi
+0 9
+https://urguptehayatvar.com/wp-admin/
+0 2
+https://urguptehayatvar.com/products/7/seramik-urgup-isi-kahve-fincani
+0 115
+https://urguptehayatvar.com/categories/5/kitap-yayinlar
+0 11
+http://urguptehayatvar.com/cart
+0 7
+https://urguptehayatvar.com/categories/4/hediyelik-ve-aksesuar
+0 5
+https://urguptehayatvar.com/products/5/pilavlik-bulgur
+0 2
+http://urguptehayatvar.com/products/6/urgupun-simgesel-rozeti
+0 9
+https://urguptehayatvar.com/products/6/urgupun-simgesel-rozeti
+0 151
+http://www.urguptehayatvar.com/products
+0 2
+https://www.urguptehayatvar.com/admin/dashboard
+0 2
+https://urguptehayatvar.com/_debugbar/
+0 2
+https://urguptehayatvar.com/categories/6/sofra-ve-mutfak
+0 13
+http://www.urguptehayatvar.com/products/3/yarma
+0 6
+https://www.urguptehayatvar.com/categories/3/dekorasyon
+0 1
+http://urguptehayatvar.com/products
+0 15
+https://www.urguptehayatvar.com/categories/4/hediyelik-ve-aksesuar
+0 1
+https://urguptehayatvar.com/products/3/yarma
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 24
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Ed
+0 2
+Mozilla/5.0 (Linux; Android 9; RMX1801) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 63
+Mozilla/5.0 (Unknown; UNIX BSD/SYSV system) AppleWebKit/538.1 (KHTML, like Gecko) QupZilla/1.7.0 Safari/538.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+0 2
+Mozilla/5.0 (BugBountyRecon/8.0)
+0 7
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 2.0.1; de-de; Milestone Build/SHOLS_U2_01.14.0) AppleWebKit/530.17 (KHTML, like Gecko) Version
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko Galeon/2.0.6 (Ubuntu 2.0.6-2)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (compatible; crawler)
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1
+Mozilla/5.0 (Linux; Android 14; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.144 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/14.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0
+0 5
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.153 Safari/537.36
+0 218
+FeedFetcher-Google; ( http://www.google.com/feedfetcher.html)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/76.0.3809.81 Mobile/15E
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Sa
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.164 Safari/537.36
+0 257
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 41
+Mozilla/5.0 (Linux; Android 12; SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; alexa site audit/1.0; +http://www.alexa.com/help/webmasters; )
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; d-02K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 24
+Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+0 35
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+0 168
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.182
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15G77 MicroMessenger
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 1
+Go-http-client/1.1
+0 22
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/75.0.3770.142 Chrome/75.0.3770.142 Safar
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; SM-A910F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 10
+https://urguptehayatvar.com/wordpress/wp-admin/setup-config.php
+0 9
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (Linux; Android 9; SM-G960U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 86
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E14
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; arm64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; arm64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/96.0.0.0 Safari/537.36
+0 1
+curl/8.7.1
+0 196
+http://urguptehayatvar.com/wp-admin/setup-config.php
+0 9
+Go-http-client/2.0
+0 2
+Mozilla/5.0 (Android 13; Mobile; rv:117.0) Gecko/117.0 Firefox/117.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 YaBrowser/19.7.2.470 Yowser/
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+0 42
+Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 1
+DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+0 46
+Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 45
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTR
+0 1
+WhatsApp/2.23.20.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.177 Mobile
+0 9
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+0 16
+Mozilla/5.0 (iPad; U; CPU iPad OS 5_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like Gecko) Version/7.2.0.0 Safari/65
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
+0 8
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; arm64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/84.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 101
+Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/53
+0 1
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; Mi Note 3 Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/
+0 1
+Mozilla/5.0 (Linux; Android 9; ANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/116.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 105
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/112.0.1722.48
+0 5
+https://urguptehayatvar.com/wp-admin/setup-config.php
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; arm64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/96.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 7.0; es-es; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 1
+AliveHunter/3.2.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_1) AppleWebKit/605.1.15 Safari/605.1.15
+0 12
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+0 1
+http://urguptehayatvar.com/wordpress/wp-admin/setup-config.php
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; rv:45.9) Gecko/20100101 Goanna/3.2 Firefox/45.9 PaleMoon/27.4.0
+0 1
+Mozilla/5.0 (OS/2; Warp 4.5; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+python-requests/2.31.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+0 209
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-
+0 91
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/117.0.0.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+0 32
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/96.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; Alcatel_5044R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 147
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0 SeaMonkey/2.46
+0 1
+Avant Browser/1.2.789rel1 (http://www.avantbrowser.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1469.0 Safari/537.36
+0 1
+quic-go-HTTP/3
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 75
+Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)
+0 5
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3
+0 1
+Mozilla/5.0 (Windows NT 6.2; arm64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/89.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 12
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:12.0) Gecko/20100101 Firefox/12.0
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
+0 3
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10.9; rv:46.0) Gecko/20100101 Firefox/46.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 148
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Brave/1.71.121
+0 1
+SonyEricssonT650i/R7AA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+0 1
+Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
