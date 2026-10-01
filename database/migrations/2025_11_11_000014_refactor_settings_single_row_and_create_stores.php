@@ -11,12 +11,12 @@ return new class extends Migration {
         // Refactor settings to single-row concrete columns
         Schema::table('settings', function (Blueprint $table) {
             if (Schema::hasColumn('settings', 'group')) {
-                $table->dropUnique(['group','key']);
+                $table->dropUnique(['group', 'key']);
             }
         });
         Schema::table('settings', function (Blueprint $table) {
             if (Schema::hasColumn('settings', 'group')) {
-                $table->dropColumn(['group','key','value']);
+                $table->dropColumn(['group', 'key', 'value']);
             }
             if (!Schema::hasColumn('settings', 'logo')) {
                 $table->string('logo')->nullable();
@@ -52,6 +52,7 @@ return new class extends Migration {
         Schema::create('stores', function (Blueprint $table) {
             $table->id();
             $table->boolean('sell_enabled')->default(false);
+            $table->boolean('show_price')->default(true);
             $table->boolean('auth_required')->default(false);
             $table->boolean('maintenance')->default(false);
             $table->boolean('auto_stock')->default(false);
